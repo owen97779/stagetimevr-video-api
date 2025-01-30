@@ -22,10 +22,6 @@ vendor/
 # Go workspace file
 go.work
 
-# Go modules
-go.mod
-go.sum
-
 # IDE/editor directories and files
 .vscode/
 .idea/
