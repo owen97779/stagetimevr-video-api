@@ -6,7 +6,7 @@
 *.dylib
 
 # Docker stuff, testing...
-docker/
+# docker/
 .dockerignore
 *.md
 
